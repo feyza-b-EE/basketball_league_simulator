@@ -4,10 +4,6 @@ Created on Thu Jan  4 17:42:15 2024
 
 @author: Feyza
 """
-my_name = "Ayse Feyza Birer"
-my_id = "220102002033"
-my_email = "a.birer2022@gtu.edu.tr"
-
 
 import random
 
